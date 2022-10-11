@@ -3,4 +3,4 @@
 	url = https://github.com/luizdepra/hugo-coder.git
 [submodule "public"]
 	path = public
-	url = https://github.com/caleb-brown/caleb-brown.github.io.git
+	url = "https://github.com/caleb-brown/caleb-brown.github.io.git#gh-pages"
