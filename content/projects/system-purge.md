@@ -19,5 +19,5 @@ Lead Programmer
 - 2 artists
 
 ### Links
-[Global Game Jam](https://globalgamejam.org/2016/games/system-purge)
-[Github Project](https://github.com/caleb-brown/System-Purge)
+- [Global Game Jam](https://globalgamejam.org/2016/games/system-purge)
+- [Github Project](https://github.com/caleb-brown/System-Purge)
