@@ -1,6 +1,6 @@
 ---
 title: "No Co-Op"
-date: 2022-10-11T14:13:02-04:00
+date: 2014-01-01T00:00:00-04:00
 draft: false
 ---
 
@@ -16,4 +16,5 @@ Gameplay/UI Programmer
 - 20+ Programmers
 - 10+ Artists
 
-[Link to Github project](https://github.com/caleb-brown/No_Cooperation)
+### Links
+[Github](https://github.com/caleb-brown/No_Cooperation)
