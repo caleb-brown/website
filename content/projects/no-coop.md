@@ -17,4 +17,4 @@ Gameplay/UI Programmer
 - 10+ Artists
 
 ### Links
-- [Github](https://github.com/caleb-brown/No_Cooperation)
+- [Github project](https://github.com/caleb-brown/No_Cooperation)

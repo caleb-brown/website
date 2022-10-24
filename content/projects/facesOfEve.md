@@ -19,4 +19,4 @@ Lead Programmer
 
 ### Links
 - [Global Game Jam](https://globalgamejam.org/2015/games/faces-eve)
-- [Gitea Project](https://git.caleb-brown.dev/caleb-brown/FacesOfEve)
+- [Gitea project](https://git.caleb-brown.dev/caleb-brown/FacesOfEve)
