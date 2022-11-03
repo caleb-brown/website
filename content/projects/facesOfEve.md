@@ -4,7 +4,7 @@ date: 2015-01-01T00:00:00-04:00
 draft: false
 ---
 
-![](/images/projects/FacesofEve_Hole.png)
+{{< image "images/projects/FacesOfEve_Hole.png" 512 >}}
 
 # Description
 A first person horror puzzle game where the player must try to escape the ever changing office while avoiding the monstrous coworkers. 

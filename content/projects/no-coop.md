@@ -4,7 +4,7 @@ date: 2014-01-01T00:00:00-04:00
 draft: false
 ---
 
-![ ](/images/projects/NoCoop.png)
+{{< image "images/projects/NoCoop.png" 512 >}}
 
 # Description
 A 2.5 dimensional role playing game where up to 4 players can battle it out while trying to avoid the AI enemies.
