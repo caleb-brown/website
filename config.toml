@@ -17,7 +17,7 @@ disqusShortname = "yourdiscussshortname"
   info = "Game Developer | Software Engineer"
   description = "Caleb Brown's personal website"
   keywords = "developer,personal"
-  avatarurl = "images/profile_Cropped.jpg"
+  avatarurl = "images/profile.jpg"
   #gravatar = "john.doe@example.com"
 
   favicon_32 = "images/logos/favicon-32x32.png"
