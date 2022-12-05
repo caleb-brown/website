@@ -4,7 +4,7 @@ date: 2016-01-01T00:00:00-04:00
 draft: false
 ---
 
-{{< image "images/projects/System_Purge_Title1.png" 512 >}}
+{{< image "images/projects/system purge/icon.png" 512 >}}
 
 # Description
 You play as a glitch in a poorly coded game. After time, everything inside the game begins to breakdown. The world is literally breaking down around the player. It is up to the player to fix the code from within the game.
