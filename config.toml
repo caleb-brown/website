@@ -50,7 +50,7 @@ disqusShortname = "yourdiscussshortname"
   name = "Gitea"
   icon = "fa fa-gitea fa-2x"
   weight = 2
-  url = "https://git.caleb-brown.dev/caleb-brown/"
+  url = "https://projects.caleb-brown.dev/caleb-brown/"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
