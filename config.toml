@@ -14,9 +14,9 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Caleb Brown"
-  info = "Game Developer | Software Engineer"
-  description = "Caleb Brown's personal website"
-  keywords = "developer,personal"
+  info = "Staff Software Engineer | Distributed Systems | Developer Infrastructure"
+  description = "Portfolio of Caleb Brown, a staff software engineer building distributed data, simulation, deployment, and developer platforms."
+  keywords = "staff software engineer, distributed systems, developer infrastructure, platform engineering, XR, AI"
   avatarurl = "images/profile.jpg"
   #gravatar = "john.doe@example.com"
 
@@ -43,22 +43,17 @@ disqusShortname = "yourdiscussshortname"
 # Social links
 [[params.social]]
   name = "Github"
-  icon = "fa fa-github fa-2x"
+  icon = "fa-brands fa-github fa-2x"
   weight = 1
   url = "https://github.com/caleb-brown/"
 [[params.social]]
-  name = "Gitea"
-  icon = "fa fa-gitea fa-2x"
+  name = "Forgejo"
+  icon = "fa-brands fa-forgejo fa-canvas-square fa-2x"
   weight = 2
-  url = "https://projects.caleb-brown.dev/caleb-brown/"
-[[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/dev_caleb/"
+  url = "https://git.caleb-brown.dev/caleb-brown/"
 [[params.social]]
   name = "LinkedIn"
-  icon = "fa fa-linkedin fa-2x"
+  icon = "fa-brands fa-linkedin fa-2x"
   weight = 4
   url = "https://linkedin.com/in/calebmatthewbrown"
 

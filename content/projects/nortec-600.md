@@ -7,10 +7,10 @@ draft: false
 {{< image "images/projects/nortec 600/icon.png" 512 >}}
 
 # Description
-VR Training ecosystem to increase training quality and decrease training cost for the Olympus Nortec 600. This project was designed and developed to be easily adapted to create training for various different aspects of the Nortec 600. This VR training was also developed as part of an XR Training Effectiveness Study.
+Reusable VR training platform for industrial inspection using the Olympus Nortec 600. The system was designed to improve training quality while reducing equipment and material costs, and to be adapted for multiple aspects of the device as part of an XR Training Effectiveness Study.
 
 ## Role
-Software Engineer (Interactions, UI, etc)
+Software Engineer
 
 ## Team
 - 6 Programmers 
