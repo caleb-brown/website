@@ -7,10 +7,10 @@ draft: false
 {{< image "images/projects/vb200/icon.jpg" 512 >}}
 
 # Description
-A modular XR (AR, VR, and MR) training ecosystem to increase training quality and decrease material cost for Eaton-Leonard VectorBend 200 equipment. This project was designed and developed to be easily adapted to create training for any type of equipment that might benefit from XR training.
+Reusable AR, VR, and MR training platform for the Eaton-Leonard VectorBend 200 manufacturing system. The platform was designed to improve training quality, reduce material costs, and adapt to other equipment that benefits from XR instruction.
 
 ## Role
-Software Engineer (Interactions, UI, etc.)
+Software Engineer
 
 ## Team
 - 6 programmers

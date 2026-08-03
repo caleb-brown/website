@@ -14,9 +14,9 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Caleb Brown"
-  info = "Game Developer | Software Engineer"
-  description = "Caleb Brown's personal website"
-  keywords = "developer,personal"
+  info = "Staff Software Engineer | Distributed Systems | Developer Infrastructure"
+  description = "Portfolio of Caleb Brown, a staff software engineer building distributed data, simulation, deployment, and developer platforms."
+  keywords = "staff software engineer, distributed systems, developer infrastructure, platform engineering, XR, AI"
   avatarurl = "images/profile.jpg"
   #gravatar = "john.doe@example.com"
 
