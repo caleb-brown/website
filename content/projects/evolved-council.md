@@ -22,3 +22,7 @@ An AI orchestration workflow that coordinates multiple language models, gathers 
 - asyncio
 - Open WebUI
 - OpenAI-compatible APIs
+
+### Links
+
+- [GitHub Gist](https://gist.github.com/caleb-brown/fd39a1d493d05a2774bfb03f00a107dd)
