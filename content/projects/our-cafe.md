@@ -26,3 +26,4 @@ Our Cafe is a mobile-first, real-time cafe operations app for managing orders ac
 ### Links
 
 - [Live demo](https://demo.cafe.caleb-brown.dev)
+- [Source repository](https://git.caleb-brown.dev/caleb-brown/our-cafe)
