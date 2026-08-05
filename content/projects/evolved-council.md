@@ -1,6 +1,6 @@
 ---
 title: "Evolved Council"
-date: 2026-08-02T00:00:00-04:00
+date: 2026-04-26T00:00:00-04:00
 draft: false
 ---
 
